@@ -4,7 +4,7 @@
 using namespace std; 
  void printvec(){
     for(int i=0;i<v.size();i++){
-        cout<<v[i];
+        cout<<v[i]<<" ";
 
     }
     cout<<endl; 
