@@ -3,6 +3,9 @@
 // unordered maps use hash tables 
 // pairs dont have inbuilt hash function so unordered maps cant use pair insertion but ordered maps  can 
 #include<iostream> 
+#include<vector>
+#include<map>
+#include<unordered_map>
 using namespace std; 
 int main(){
     int n; 

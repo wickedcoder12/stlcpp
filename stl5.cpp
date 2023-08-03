@@ -1,8 +1,9 @@
 //vectors of vector 
 #include<iostream> 
-#include<bits/stdc++.h> 
+#include<vector>
+#include<map>
 using namespace std; 
- void printvec(){
+ void printvec(vector<int> v){
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<" ";
 

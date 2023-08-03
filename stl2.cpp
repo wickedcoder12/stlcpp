@@ -1,6 +1,7 @@
 // making pair containers
 #include<iostream>
-#include<bits>/stdc++.h> 
+#include<vector>
+#include<map>
 using namespace std; 
 int main(){
    pair<int,string> p; 
@@ -8,4 +9,4 @@ int main(){
    cout<<p.first<<endl; 
    cout<<p.second<<endl; 
    
-}\
+}

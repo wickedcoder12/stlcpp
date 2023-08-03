@@ -11,7 +11,8 @@
 //keys of map are unique  we cant insert duplicate keys 
 
 #include<iostream> 
-#include<bits/stdc++.h>
+#include<vector>
+#include<map>
 using namespace std;
 int main(){
  map<int,string> m; 
@@ -34,7 +35,7 @@ for(auto &value : m){
 // using m.find function  
 // it returns an iterator 
 auto it = m.find(3);
-if(it == m.end){
+if(it == m.end()){
     cout<< "NO VALUE";
 
 }

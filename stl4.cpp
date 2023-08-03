@@ -1,10 +1,11 @@
 // vector of pair 
 #include<iostream> 
-#include<bits/stdc++.h> 
+#include<vector>
+#include<map>
 using namespace std; 
 void printvec(vector<pair<int,int> > v){
     for(int i=0;i<v.size();i++){
-        cout<<v[i].first<<" "v[i].second;
+        cout<<v[i].first<<" "<<v[i].second;
 
     }
     cout<<endl; 

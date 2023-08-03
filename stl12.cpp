@@ -1,7 +1,8 @@
 //using auto function in pairs 
 
 #include<iostream> 
-#include<bits/stdc++.h> 
+#include<vector>
+#include<map>
 using namespace std; 
 int main(){
     vector<pair<int,int> > v ={{1,2},{3,4},{4,5}};

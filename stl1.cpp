@@ -1,6 +1,7 @@
 //we will see how to initialize a vector and how to take input and output from it
 #include<iostream>
-#include<bits/stcd++.h> 
+#include<vector>
+#include<map>
 
 using namespace std ; 
 int main(){
@@ -12,7 +13,7 @@ int main(){
         int x;
         cin>>x;
 
-        v.push_back(x)
+        v.push_back(x);
     }
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<" "; 

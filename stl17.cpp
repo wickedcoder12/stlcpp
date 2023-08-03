@@ -1,5 +1,8 @@
 // Given N strings and q queries in each querie u r given string print frequency of that string 
 #include<iostream> 
+#include<vector>
+#include<map>
+#include<unordered_map>
 using namespace std; 
 int main(){ 
     unordered_map<string,int> m; 

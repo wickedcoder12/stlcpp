@@ -1,38 +1,43 @@
-1 - stack and queues 
-2 - linked lists 
-3 - trees and graphs
+1 - stack and queues (4 days)
+2 - linked lists (3 days)
+3 - trees and graphs (12 days)
 --------------------------------------------------------------------------------------------------------------------------------
-1 - pointers 
-2 - strings 
-3 - hashmap and hashing 
-4 - object oriented programming using c++ 
-5 - greedy algorithms 
-6 - square root decomposition on arrays/queries
-7 - mo's algorithm 
-8 - tries(binary tries/character tries)
-9 - sparse table 
-10 - recursion 
-11 - back tracking 
-12 - dynamic programming 
-13 - boolean and bit manipulation 
-14 - disjoin set union 
-15 - DP on trees 
-16 - strongly connected components 
-17 - dp + bitmasking 
-18 - fenwick tree 
-19 - digit dp 
-20 - sos dp 
-21 - string hashing 
-22 - kmp algorithm 
-23 - z algorithm 
-24 - game theory 
-25 - geometric algorithms 
-26 - convex hull 
--------------------------------------------------------------------------------------------------------------------------------
-27 - guide to compeititve programming book 
-28 - cses problems 
-29 - usaco website  
+1 - pointers (2 days)
+2 - strings (3 days)
+3 - hashmap and hashing  (3 days)
+4 - object oriented programming using c++ (3 days)
+5 - greedy algorithms (4 days)
+6 - square root decomposition on arrays/queries (3 days)
+7 - mo's algorithm (3 days)
+8 - tries(binary tries/character tries) (3 days)
+9 - sparse table  (2 days)
+10 - recursion  (3 days)
+11 - back tracking (3 days)
+12 - dynamic programming (7 days)
+13 - boolean and bit manipulation (4 days)
+14 - disjoin set union (3 days)
+15 - DP on trees ( 3 days)
+16 - strongly connected components (3 days)
+17 - dp + bitmasking (3 days)
+18 - fenwick tree ( 2 days)
+19 - digit dp (2 days)
+20 - sos dp (2 days)
+21 - string hashing (2 days)
+22 - kmp algorithm (2 days)
+23 - z algorithm (2 days)
+24 - game theory (2 days)
+25 - geometric algorithms (2 days)
+26 - convex hull (2 days)
+27 - network algorithms 
 
+-------------------------------------------------------------------------------------------------------------------------------
+guide to competitive programming 
+cses problems 
+usaco 
+steven halim 
+leetcode 
+codeforces 
+atcoder 
 4am - 8am (code code code)
 -------------------------------------------------------------------------------------------------------------------------------
 1 - machine learning with python 
@@ -40,4 +45,3 @@
 3 - database managment 
 4 - restful api and software design patterns 
 5 - app development tcp ip network protocols 
-

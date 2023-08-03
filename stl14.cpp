@@ -3,7 +3,8 @@
 // it can take value of key and both iterators  
 // if we dont add anything in value we get 0 as default 
 #include<iostream> 
-#include<bits/stdc++.h> 
+#include<vector>
+#include<map>
 using namespace std;
 int main(){
     map<int,string> m;
